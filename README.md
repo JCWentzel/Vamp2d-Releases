@@ -41,7 +41,7 @@ Each release includes `SHA256SUMS.txt` and `release-manifest.json`, recording th
 build revision and checksums. For example, in PowerShell:
 
 ```powershell
-Get-FileHash './Vamp2D Studio_0.1.0_x64-setup.exe' -Algorithm SHA256
+Get-FileHash './Vamp2D.Studio_0.1.0_x64-setup.exe' -Algorithm SHA256
 ```
 
 Compare the hash with the matching entry in `SHA256SUMS.txt`.
