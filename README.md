@@ -5,6 +5,10 @@ layered artwork.
 
 **[Download the latest release](https://github.com/JCWentzel/Vamp2d-Releases/releases)**
 
+The initial **0.1.0 Windows preview** includes the Windows installers below.
+Linux and macOS are configured in the automated build workflow; their first
+hosted builds are waiting for GitHub to create jobs and are not available yet.
+
 | System | Download |
 | --- | --- |
 | Windows 10/11, 64-bit | `x64-setup.exe` (recommended) or `.msi` |
